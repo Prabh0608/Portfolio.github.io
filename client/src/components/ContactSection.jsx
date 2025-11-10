@@ -73,7 +73,7 @@ export default function ContactSection({ email }) {
         </div>
 
         <div className="text-center">
-          <a href="./Prabhjot Singh Saini.pdf" download="Prabhjot Singh Saini.pdf">
+          <a href="/Prabhjot Singh Saini.pdf" download="Prabhjot Singh Saini.pdf">
             <Button
               size="lg"
               variant="outline"
